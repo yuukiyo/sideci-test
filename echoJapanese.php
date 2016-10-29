@@ -11,10 +11,12 @@ function execute() {
     return $return;
 }
 
-function returnあ() {
+function returnあ()
+{
     return "あ";
 }
 
-function returnか() {
+function returnか()
+{
     return "か";
 }
