@@ -11,8 +11,7 @@ function execute() {
     return $return;
 }
 
-function returnあ()
-{
+function returnあ(){
     return "あ";
 }
 
