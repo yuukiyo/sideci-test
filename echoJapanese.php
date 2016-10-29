@@ -6,7 +6,7 @@ function execute() {
     $return = "";
 
     $return .= returnあ();
-    $return .= returnか()
+    $return .= returnか();
 
     return $return;
 }
