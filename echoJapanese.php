@@ -5,7 +5,11 @@ echo execute();
 function execute() {
     $return = "";
 
-    $return .= "あ";
+    $return .= returnあ();
 
     return $return;
+}
+
+function returnあ() {
+    return "あ";
 }
